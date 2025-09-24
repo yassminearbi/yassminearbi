@@ -1,5 +1,8 @@
-## Hi there 👋
+# Hi, I'm Yasmin 👋
 
+Welcome to my GitHub profile!  
+
+Check out my portfolio:https://portfolly.io/yassminearbi
 <!--
 **yassminearbi/yassminearbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
