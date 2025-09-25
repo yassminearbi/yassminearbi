@@ -28,7 +28,7 @@ Check out my full portfolio for projects, skills, and more: [View Portfolio](htt
 
 ## 📫 Contact
 - Email: arbiyasmin123@gmail.com
-- LinkedIn: [linkedin.com/in/yasminarbi](www.linkedin.com/in/arbi-yasmin-7522a1305)
+- LinkedIn: [linkedin.com/in/yasminarbi]()https://www.linkedin.com/in/arbi-yasmin-7522a1305/
 
 
 
